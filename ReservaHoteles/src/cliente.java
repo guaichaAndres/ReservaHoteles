@@ -9,5 +9,7 @@
  * @author jhonn
  */
 public class cliente {
+    int edad;
     
+   
 }
