@@ -6,7 +6,7 @@
 
 /**
  *
- * @author jhonn
+ * @author Andrés Guaicha, Diego Castro, Jonathan Atancuri, Anónimo Chuqui
  */
 public class cliente {
     int edad;
